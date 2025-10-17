@@ -1,5 +1,5 @@
 {
-  "name": "@eusoumarlon/node-printer",
+  "name": "@eusoumarlon/mp-node-printer",
   "description": "Node.js printer bindings",
   "version": "0.6.5",
   "homepage": "https://github.com/Marlonzao/marlon-node-printer",
@@ -52,5 +52,8 @@
     "nan": "^2.23.0",
     "prebuild-install": "^7.1.1"
   },
-  "types": "types/index.d.ts"
+  "types": "types/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  }
 }
