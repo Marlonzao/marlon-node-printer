@@ -1,21 +1,22 @@
 {
-  "name": "@lastapp/node-printer",
+  "name": "@eusoumarlon/node-printer",
   "description": "Node.js printer bindings",
-  "version": "0.6.4",
-  "homepage": "https://github.com/last-tech/node-printer",
+  "version": "0.6.5",
+  "homepage": "https://github.com/Marlonzao/marlon-node-printer",
   "author": {
     "name": "Ion Lupascu",
-    "url": "http://program-support.co.uk/",
-    "email": "ionlupascu@gmail.com"
+    "url": "https://multipedidos.com.br/",
+    "email": "marlon@multipedidos.com.br"
   },
   "contributors": [
     "Thiago Lugli <thiagoelg@gmail.com>",
     "Eko Eryanto <ekoeryanto@gmail.com>",
-    "Ivan Nikolic <ivannkf@gmail.com>"
+    "Ivan Nikolic <ivannkf@gmail.com>",
+    "Marlon Oliveira <marlon@multipedidos.com.br>"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/last-tech/node-printer.git"
+    "url": "git://github.com/Marlonzao/marlon-node-printer.git"
   },
   "devDependencies": {
     "node-abi": "^4.14.0",
@@ -38,7 +39,7 @@
   "binary": {
     "module_name": "node_printer",
     "module_path": "./lib/",
-    "host": "https://github.com/last-tech/node-printer/releases/download/",
+    "host": "https://github.com/Marlonzao/marlon-node-printer/releases/download/",
     "remote_path": "v{version}"
   },
   "licenses": [
